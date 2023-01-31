@@ -1,6 +1,8 @@
 This is a minimal setup of cBioPortal for UCLA Pathology developed January 2023
 
-Below is the readme for [`cbioportal-docker-compose`](https://github.com/cBioPortal/cbioportal-docker-compose).
+Note the cBioPortal docs for [docker deployment](https://docs.cbioportal.org/deployment/docker/) and [SAML authentication](https://docs.cbioportal.org/deployment/authorization-and-authentication/authenticating-users-via-saml/).
+
+Below is the original readme for [`cbioportal-docker-compose`](https://github.com/cBioPortal/cbioportal-docker-compose):
 
 ---
 
